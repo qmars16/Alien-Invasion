@@ -1,8 +1,7 @@
 # Alien-Invasion
 A simple 2D space shooter game developed using Python.
 
-Link to the repo : 
-
+Link to the repo : https://github.com/qmars16/Alien-Invasion 
 
 Game Description:
 
