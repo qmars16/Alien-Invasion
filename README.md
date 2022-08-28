@@ -20,7 +20,7 @@ and will be faster than the previous set.
 
 -The game ends when the player loses three ships.
 
-Note: self.screen refers to the screens surface
+
 
 
                                             
