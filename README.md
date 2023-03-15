@@ -20,6 +20,9 @@ and will be faster than the previous set.
 
 -The game ends when the player loses three ships.
 
+Note to user:
+
+alien_invasion.py is the main file, rest are user-defined modules which are imported into main file.
 
 
 
